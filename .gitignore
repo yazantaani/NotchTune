@@ -1,0 +1,5 @@
+.build/
+NotchTune.app/
+*.zip
+.DS_Store
+.swiftpm/

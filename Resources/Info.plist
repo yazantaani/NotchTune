@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>NotchTune</string>
+    <key>CFBundleDisplayName</key><string>NotchTune</string>
+    <key>CFBundleIdentifier</key><string>local.notchtune</string>
+    <key>CFBundleExecutable</key><string>NotchTune</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>NotchTune shows a short pop-up in the notch when AirPods or other Bluetooth accessories connect.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>NotchTune reads the current song from Music or Spotify and sends play/pause/skip commands to them. Nothing else.</string>
+</dict>
+</plist>
